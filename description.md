@@ -23,13 +23,13 @@
 __Photos__
 
 ![#1photo](https://i.ebayimg.com/images/g/gwgAAOSwPUxi7OOx/s-l1600.jpg)
-######Multi-Window7 allows up to 4 apps displayed on screen — so you can take notes while watching video lectures or discuss plans with travel mates while scrolling through booking websites.
+###### Multi-Window7 allows up to 4 apps displayed on screen — so you can take notes while watching video lectures or discuss plans with travel mates while scrolling through booking websites.
 ![#2photo](https://i.ebayimg.com/images/g/Bw0AAOSw33Vi7ONb/s-l1600.jpg)
-######Also, with app dock, you can easily access apps via App Bubble, shift from app to app with no trouble while multitasking.
+###### Also, with app dock, you can easily access apps via App Bubble, shift from app to app with no trouble while multitasking.
 ![#3photo](https://i.ebayimg.com/images/g/ClsAAOSwHJdi7OOa/s-l1600.jpg)
 ######When shopping, you can compare two items side by side on screen. For work, you can reply instant messages while writing emails without switching. A handy feature for both work and play.
 ![#4photo](https://i.ebayimg.com/images/g/T6sAAOSwKpVi7OOv/s-l1600.jpg)
-######HUAWEI M-Pencil (2nd generation)9 features a transparent tip design, platinum-coated nib, and rounded hexagonal shape, making it comfortable to hold.
+###### HUAWEI M-Pencil (2nd generation)9 features a transparent tip design, platinum-coated nib, and rounded hexagonal shape, making it comfortable to hold.
 
 
 ##__Similar devices__
