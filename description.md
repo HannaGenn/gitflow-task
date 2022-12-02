@@ -27,7 +27,7 @@ __Photos__
 ![#2photo](https://i.ebayimg.com/images/g/Bw0AAOSw33Vi7ONb/s-l1600.jpg)
 ###### Also, with app dock, you can easily access apps via App Bubble, shift from app to app with no trouble while multitasking.
 ![#3photo](https://i.ebayimg.com/images/g/ClsAAOSwHJdi7OOa/s-l1600.jpg)
-######When shopping, you can compare two items side by side on screen. For work, you can reply instant messages while writing emails without switching. A handy feature for both work and play.
+###### When shopping, you can compare two items side by side on screen. For work, you can reply instant messages while writing emails without switching. A handy feature for both work and play.
 ![#4photo](https://i.ebayimg.com/images/g/T6sAAOSwKpVi7OOv/s-l1600.jpg)
 ###### HUAWEI M-Pencil (2nd generation)9 features a transparent tip design, platinum-coated nib, and rounded hexagonal shape, making it comfortable to hold.
 
