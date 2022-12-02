@@ -3,6 +3,8 @@
 
 *.txt
 *.tex
+*.vscode
+*.idea
 
 
 
