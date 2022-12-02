@@ -1,7 +1,9 @@
 ##mine
 *.pdf
-*.tex
+
 *.txt
+*.tex
+
 
 
 ## Core latex/pdflatex auxiliary files:
