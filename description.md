@@ -32,7 +32,7 @@ __Photos__
 ###### HUAWEI M-Pencil (2nd generation)9 features a transparent tip design, platinum-coated nib, and rounded hexagonal shape, making it comfortable to hold.
 
 
-##__Similar devices__
+## __Similar devices__
 
 ##### Huawei MatePadT10s AGS3K-W09 4GB
 
